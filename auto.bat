@@ -4,6 +4,7 @@ D:
 cd D:\wpssyncfolder\notebook #这里是要提交的项目目录，需要更改成自己的文件目录
 git status
 git add .
+git status
 git commit -m "Auto commit."
 git push
 
